@@ -1,2 +1,2 @@
 # OpenAI-GPT-Summariser
-upload a .mp3 file and perform some detailed analysis on it using whisper and gpt4
+This repository is an updated version of https://platform.openai.com/docs/tutorials/meeting-minutes as the previous link no longer works due to an update in the API. 
