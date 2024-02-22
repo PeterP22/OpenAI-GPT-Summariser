@@ -11,9 +11,6 @@ This project utilizes OpenAI's Whisper and GPT-4 models to offer a comprehensive
 - **Participant List**: Compiles a list of participants, including their roles and other relevant details, enhancing the understanding of the conversation's context.
 - **Sentiment Analysis**: Analyzes the sentiment of the conversation, determining whether the overall tone is positive, negative, or neutral, and providing insights into the emotional undertones of the discussion.
 
-These features make the notebook an invaluable tool for anyone looking to efficiently process and understand audio content.
-
-Note: This repository is an updated version of https://platform.openai.com/docs/tutorials/meeting-minutes as the previous code snippets no longer work due to an update in the API. 
 
 
 
